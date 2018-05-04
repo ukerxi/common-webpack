@@ -1,0 +1,10 @@
+/** 通用样式 **/
+body {
+    color: blue;
+    font-size: 14px;
+}
+.img{
+    width: 60px;
+    height: 60px;
+    background: url("../img/rabbit.jpg") no-repeat center;
+}
